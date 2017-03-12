@@ -1,0 +1,10 @@
+# Ignore temp files
+
+*~
+*.gitignore~
+*.md~
+
+# not ignore folders
+!basics/
+
+
